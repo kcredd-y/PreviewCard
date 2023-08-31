@@ -1,0 +1,30 @@
+:root {
+  --Cream: hsl(30, 38%, 92%);
+}
+* {
+  box-sizing: border-box;
+  border: 0px solid black;
+  margin: 0;
+  padding: 0;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--Cream);
+}
+
+.main-content {
+  display: flex;
+  width: 500px;
+  height: 500px;
+}
+
+.main-content__image {
+  max-width: 100%;
+  object-fit: fill;
+}
+.product-description {
+  background-color: white;
+}
