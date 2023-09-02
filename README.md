@@ -57,7 +57,7 @@ Build more projects and get better to CSS and learn JS.
 ### Useful resources
 
 - [https://www.joshwcomeau.com/css/custom-css-reset/#the-css-reset-1] This helped me for resetting the CSS.
-- [https://www.youtube.com/watch?v=Rik3gHT24AM] Understanding the <picture> tag.
+- [https://www.youtube.com/watch?v=Rik3gHT24AM] Understanding the picture tag.
 
 ## Author
 
