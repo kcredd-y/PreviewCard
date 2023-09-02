@@ -62,4 +62,4 @@ Build more projects and get better to CSS and learn JS.
 ## Author
 
 - Website - [Karthik C]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kcredd-y]
