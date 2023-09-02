@@ -29,6 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![Deskstop] (Screenshots/Desktop.png)
+<img src="Screenshots/Desktop.png" alt="Deskstop" width="500"/>
 
 
 ### Links
