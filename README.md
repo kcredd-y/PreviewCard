@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Deskstop]: (Screenshots/desktop.jpg)
-![Mobile]: [Screenshots/Mobile.jpg]
+![Deskstop]: (Screenshots/Desktop.jpg)
+![Mobile]: (Screenshots/Mobile.jpg)
 
 ### Links
 
